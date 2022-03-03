@@ -1,0 +1,3 @@
+started: 03-03-2022 18:23:29: ManageAmericaAPI.Controllers.availablitiesController+<SetAvailablity>d__2.MoveNext 
+started: 03-03-2022 18:24:09: ManageAmericaAPI.Controllers.availablitiesController+<SetAvailablity>d__2.MoveNext 
+Error: 03-03-2022 18:24:42: ManageAmericaAPI.Controllers.availablitiesController+<SetAvailablity>d__2.MoveNext AvailablityService: Conflict Arises In adding Items
